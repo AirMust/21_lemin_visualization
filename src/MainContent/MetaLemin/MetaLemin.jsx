@@ -273,8 +273,7 @@ export default function MetaLemin ({
               <IconButton
                 onClick={e => {
                   step <= ants.length + 5 ? setStep(step + 1) : setStep(-1)
-                }}
-              >
+                }}>
                 <SkipNextIcon className={classes.playIcon} />
               </IconButton>
             </div>
