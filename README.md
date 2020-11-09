@@ -1,2 +1,2 @@
 # 21_lemin_visualization
-Visualization lem-in project  
+Visualization lem-in project
